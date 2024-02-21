@@ -6,13 +6,8 @@
 ### Background
 Raw data exists in multiple places and forms. In order to perform any kind of data analysis, this data needs to be cleaned and structured. Data pipeline process **ETL – Extract, Transform, and Load** is a core concept in data engineering, ensuring that data is consistent, maintains its integrity, and nontheless strives for automatization of data wrangling. Without a consistent and robust data structure, it’s nearly impossible to perform any meaningful analysis. 
 
-<p align="center">  
-<img src="Graphics/ETL.PNG" width="45%" height="45%">
-</p>
+  [ETL](https://github.com/elisharon/ETL-movies/assets/158561982/81d43bc2-8629-4296-87fe-85d15afd3347)
 
-<p align="center">  
-    <i>Figure 1: ETL process (1).</i>
-</p>
 
 ### Purpose
 The Amazing Prime, a video streaming company, decided to sponsor a *hackathon*, where participants trying to predict which low budget movies being released will become popular. Participants of a hackathon need a clean data in order to perform analyses for their algorithms. In order to provide organized and clean dataset, this project focuses on *ETL** or **Extract, Transform and Load** process and includes the following:
